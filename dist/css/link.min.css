@@ -4714,7 +4714,7 @@ button.close {
 	.carousel-caption {
 		left:20%;
 		right:20%;
-		padding-bottom:30px
+		padding-bottom:500px
 	}
 	.carousel-indicators {
 		bottom:20px
@@ -6866,7 +6866,7 @@ a {
 	list-style:disc
 }
 .testimonials-section {
-	background-image:url("../../pic/3.jpg");
+	background-image:url("../../pic/pjl.jpg");
 	background-size:cover;
 	background-position:0 28%;
 	min-height:360px
