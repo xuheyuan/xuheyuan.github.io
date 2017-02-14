@@ -44,7 +44,6 @@ body {
     padding: 20px;
     overflow-x: hidden;
     overflow-y: auto; /* Scrollable contents if viewport is shorter than content. */
-    border-right: 1px solid #eee;
   }
 }
 
@@ -75,7 +74,7 @@ body {
 }
 @media (min-width: 768px) {
   .main {
-    padding-right: 40px;
+    padding-right: 700px;
     padding-left: 80px;
   }
 }
