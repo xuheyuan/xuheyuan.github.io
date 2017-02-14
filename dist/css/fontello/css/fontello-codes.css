@@ -1,2 +1,6 @@
 
+.icon-qrcode:before { content: '\e800'; } /* '' */
+.icon-users-outline:before { content: '\e801'; } /* '' */
+.icon-school:before { content: '\e834'; } /* '' */
+.icon-chat-empty:before { content: '\f0e6'; } /* '' */
 .icon-quote-left:before { content: '\f10d'; } /* '' */
