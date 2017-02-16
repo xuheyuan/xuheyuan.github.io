@@ -6507,7 +6507,7 @@ a.landing-form__btn {
 	padding:8px 0
 }
 a {
-	color:#ef4d4d;
+	color:#525252;
 	text-decoration:none
 }
 .c-hero {
@@ -6575,7 +6575,7 @@ a {
 }
 @media(min-width:992px) {
 	.c-hero {
-		height:600px
+		height:768px
 	}
 	.c-hero__video {
 		-webkit-transform:scale(2);
@@ -6635,7 +6635,7 @@ a {
 	padding:0 3px!important
 }
 .how-it-works-section h3 {
-	color:#ef4d4d
+	color:#3bbe7a
 }
 .how-it-works-section a.o-btn--lg {
 	font-size:1.8rem
