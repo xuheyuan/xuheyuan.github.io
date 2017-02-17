@@ -5291,14 +5291,14 @@ footer .o-logo {
 }
 .o-wrapper {
 	font-size:1.6rem;
-	padding-top:5rem;
+	padding-top:7rem;
 	padding-bottom:5rem
 }
 .o-wrapper p {
 	line-height:1.8em
 }
 .o-wrapper__header {
-	margin-bottom:4rem
+	margin-bottom:8rem
 }
 .o-wrapper__header h1,.o-wrapper__header h2,.o-wrapper__header h3 {
 	letter-spacing:.02em
