@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Link Education | 聆课教育</title>
+    <link href="dist/css/fontello/css/fontello.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600" rel="stylesheet">
+    <link href="dist/css/bootstrap.min.css" type="text/css" rel="stylesheet">
+    <link href="dist/css/style.min.css" type="text/css" rel="stylesheet">
+    <link href="dist/css/index.min.css" type="text/css" rel="stylesheet">
+    <link rel="shortcut icon" href="favicon.ico">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="dist/css/link.min.css" type="text/css" rel="stylesheet">
+</head>
+<body>
+
+    
+
+<nav class="navbar navbar-default navbar-fixed-top main-nav" role="navigation">
+        <div class="container">
+		<div class="row">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-logo" href="index.html">
+	      <img class="navbar-logo-image" alt="LinkEdu" src="pic/wlogo1.jpg" height="50px">
+      </a>
+    </div>
+            <div class="navbar-collapse collapse navbar-right" style="width:50%">
+                <!-- Main navigation -->
+                <ul class="nav navbar-nav">
+
+
+
+<li class="click"><a>主页</a><p class="line-top"></p></li>
+      	
+
+<li><a href="brand.html">业务与理念</a></li>
+      	
+
+<li><a href="team.html">核心团队</a></li>
+      	
+
+<li><a href="#contact">联系我们</a></li>
+      	
+                </ul>
+
+
+            </div>
+</div>
+        </div>
+</nav>
+
+<div class="c-hero">
+          <img src="pic/brand2.jpg" alt="Second slide" width="100%">
+    <div class="c-hero__content text-center u-full-block">
+        <div class="va-container va-container-v va-container-h">
+            <div class="va-middle" height="50%">
+                <h1 class="u-text-contrast" style="margin-top:13%; font-size:54px; font-weight:normal;">
+
+                    坐拥顶尖大学学子资源，提供教育解决方案
+                </h1>
+                <h1 class="u-text-contrast u-space-4" style="font-size:20px">Focus on education problems with help of the best youth from the best university</h1>
+<!--                <a href="~/RateQuote" class="o-btn o-btn--lg o-btn--solid">Get Rates in 60 Seconds <i class="fa fa-caret-right"></i></a>-->
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div class="container linian-con" style="margin-bottom: 5rem;">
+
+
+        <div class="title-comm">
+            <h3 class="welinain" style="color:#3bbe7a">连接您与顶尖学子的桥梁</h3>
+            <p class="line"></p>
+            <p class="linh25" style="font-size:14px">聆课伴读，致力于发挥顶尖高校人才资源，为孩子解决知识体系、人文积累等各式各样的问题。</p>
+            <p class="linh25" style="font-size:14px">团队均为北京大学学子，涵盖教育学、理论科学、商学等多元背景，作为最优秀的“过来人”，对中学阶段教育问题有最卓越的分析能力</p>
+            <p class="linh25" style="font-size:14px">聆课伴读，为不一样的教育困境提供一样优质的定制方案。</p>
+        </div>
+        <div class="row linian-div">
+
+            <div class="col-lg-4  large-3 small-12">
+                <div class="col-div">
+		    <h4>学校数理课程不够扎实？</h4>
+                    <figure class="pu-logo-icon ac-figure-icon">
+				<img src="pic/ct1.jpg" width="120px">
+		    </figure>
+                    <h4>理科思维构建</h4>
+                    <div class="f12" style="font-size:14px">优选国内数理教材，体系化详细讲授数理知识。</div>
+                    <div class="f12" style="margin-top: 2px; font-size:14px">讲师与分析团队悉心记录孩子每一个薄弱点，</div>
+                    <div class="f12" style="margin-top: 2px; font-size:14px">每次课后综合分析，有针对性地动态调整课程。</div>
+                </div>
+            </div><!-- /.col-lg-4 -->
+
+            <div class="col-lg-4  large-3 small-12">
+                <div class="col-div">
+		    <h4>孩子人文素养积累薄弱？</h4>
+                    <figure class="chuanxin-logo-icon ac-figure-icon">
+			<img src="pic/ct2.jpg" width="120px">
+		    </figure>
+                    <h4>开放式伴读</h4>
+                    <div class="f12" style="font-size:14px">从孩子兴趣展开，从诗歌、历史、名著入手</div>
+                    <div class="f12" style="margin-top: 2px; font-size:14px">从文字到文化，从文学到生活，</div>
+                    <div class="f12" style="margin-top: 2px; font-size:14px">引导、带领、陪伴孩子对人文的涉猎和思考。</div>
+                </div>
+            </div><!-- /.col-lg-4 -->
+
+            <div class="col-lg-4  large-3 small-12">
+                <div class="col-div">
+		    <h4>少儿编程？网球？声乐？</h4>
+                    <figure class="chonggou-logo-icon ac-figure-icon">
+			<img src="pic/ct3.jpg" width="120px">
+		    </figure>
+                    <h4>定制化业务</h4>
+                    <div class="f12" style="font-size:14px">面对上述两种经典教育困境之外的需求，</div>
+                    <div class="f12" style="margin-top: 2px; font-size:14px">伴您剖析问题，为您在顶尖大学寻找解决者，</div>
+                    <div class="f12" style="margin-top: 2px; font-size:14px">用最优秀的青年榜样驱动孩子的成长。</div>
+                </div>
+            </div><!-- /.col-lg-4 -->
+        </div>
+
+    
+
+</div>
+
+
+
+
+
+
+<div class="o-wrapper testimonials-section u-text-contrast u-blended">
+    <div class="o-wrapper__header text-center">
+	<h3 class="">
+		<i class="icon-quote-left"></i>
+	</h3>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center ">
+                <p style="font-size:20px">"我觉得聆课...............</p>
+		<p style="font-size:20px">............................................................................................</p>
+		<p style="font-size:20px">................................................................................"</p>
+                <p><i class="fa fa-star u-padding-side-2"></i><i class="fa fa-star u-padding-side-2"></i><i class="fa fa-star u-padding-side-2"></i><i class="fa fa-star u-padding-side-2"></i><i class="fa fa-star u-padding-side-2"></i></p>
+            </div>
+        </div>
+    </div>
+    <div class="ie10-blended"></div>
+</div>
+
+
+
+
+
+<div class="o-wrapper how-it-works-section how-it-works">
+    <div class="o-wrapper__header text-center">
+        <h3 class="u-space-2">开始定制你的伴读服务</h3>
+	<p class="line"></p>
+        <h5 class="linh25" style="font-size:14px;">每项业务的定制都包含充分的事先评估和跟进分析，一切以确保您需求的达成为第一要务。</h5>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 ">
+                <div class="row">
+                    <div class="col-md-3 u-no-pad">
+                        <div class="chevron-box how-it-works__item">
+                            <div class="text-center">
+		<i class="icon-qrcode"></i>
+                            </div>
+                            <h4>关注公众号</h4>
+                            <p>请在关注下设微信公众号开始预约服务。如有疑问，亦可事先按以下联系方式联系主创人员。</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 u-no-pad">
+                        <div class="chevron-box how-it-works__item">
+                            <div class="text-center">
+		<i class="icon-chat-empty"></i>
+                            </div>
+                            <div class="text-center">
+                                <span> </span>
+                            </div>
+                            <h4>在线申请</h4>
+                            <p>在公众号留言您的基本情况后，12小时内将会有工作人员与您联系。您可以在线上了解各项业务情况、以及描述您的需求。</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 u-no-pad">
+                        <div class="chevron-box how-it-works__item">
+                            <div class="text-center">
+		<i class="icon-users-outline"></i>
+                            </div>
+                            <h4>面议需求</h4>
+                            <p>我们会与您预约一个时间，会面讨论您具体的要求，并敲定业务的各种细节。我们也愿意上门为您和您的孩子提供需求评估。</p>
+                        </div>
+                    </div>
+                    <div class="col-md-3 u-no-pad">
+                        <div class="chevron-box how-it-works__item">
+                            <div class="text-center">
+		<i class="icon-school"></i>
+                            </div>
+                            <h4>完成预约</h4>
+                            <p>在您完成一项业务的定制后，我们会为派遣的老师进行有针对性的预培训，并在每次伴读后进行持续的跟进分析和总结工作。</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+    <footer class="c-footer" id="contact">
+        <div class="container footer-info">
+            <div class="row u-space-top-4 u-space-4">
+                <div class="col-xs-12 col-md-10 col-md-offset-1">
+                    <div class="row">
+		<div class="col-lg-8">
+			<p style="font-size:13px;">如需咨询或定制服务，请移步微信公众号：link_bind</p>
+			<p style="font-size:13px;">或扫描右侧二维码；</p>
+			<p style="font-size:13px;"> </p>
+			<p style="font-size:13px;">如有疑问，亦可直接联系主创人员：</p>
+			<p style="font-size:13px;">TEL 18811462256</p>
+			<p style="font-size:13px;">MAIL <a href="mailto:pkuxuheyuan@163.com">pkuxuheyuan@163.com</a></p>
+		</div>
+
+		<div class="col-lg-4">
+			<img class="img-rounded" src="pic/QRcode.jpg" alt="QR code" style="width: 150px; height:150px;">
+		</div>
+                    </div>
+                </div>
+
+
+
+                
+            </div>
+        </div>
+        <div class="copy-info u-text-small">
+            <div class="container">
+                <div class="row"><div class="col-sm-12 copy-info__content u-space-3">CopyRight:</div></div>
+                <div class="row">
+                    <div class="col-sm-12 col-md-8 copy-info__content u-space-3">
+                        © 2017 Link & Bind®. All rights reserved.
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </footer>
+
+    
+    <script src="dist/js/jquery.min.js"></script>
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+    <script src="dist/js/mediaelements.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/is_js/0.7.4/is.min.js"></script>
+
+    <script src="dist/js/main.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/userinfo/1.1.0/userinfo.min.js"></script>
+
+
+    <script src="dist/js/analytics.js"></script><script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion_async.js"></script>
+;
+    <script>
+        LoanPal.Analytics.Landers();
+    </script><noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=455817777936847&ev=PageView&noscript=1" /></noscript>
+    
+    
+    
+
+    <!-- start Mixpanel -->
+    <script type="text/javascript">
+        (function (e, b) {
+            if (!b.__SV) {
+                var a, f, i, g; window.mixpanel = b; b._i = []; b.init = function (a, e, d) {
+                    function f(b, h) { var a = h.split("."); 2 == a.length && (b = b[a[0]], h = a[1]); b[h] = function () { b.push([h].concat(Array.prototype.slice.call(arguments, 0))) } } var c = b; "undefined" !== typeof d ? c = b[d] = [] : d = "mixpanel"; c.people = c.people || []; c.toString = function (b) { var a = "mixpanel"; "mixpanel" !== d && (a += "." + d); b || (a += " (stub)"); return a }; c.people.toString = function () { return c.toString(1) + ".people (stub)" }; i = "disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+                    for (g = 0; g < i.length; g++) f(c, i[g]); b._i.push([a, e, d])
+                }; b.__SV = 1.2; a = e.createElement("script"); a.type = "text/javascript"; a.async = !0; a.src = "undefined" !== typeof MIXPANEL_CUSTOM_LIB_URL ? MIXPANEL_CUSTOM_LIB_URL : "file:" === e.location.protocol && "//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//) ? "https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js" : "//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"; f = e.getElementsByTagName("script")[0]; f.parentNode.insertBefore(a, f)
+            }
+        })(document, window.mixpanel || []);
+        mixpanel.init("ae5470918a358d13d9d5bc6d10e003cb");</script>
+    <!-- end Mixpanel -->
+
+</body>
+
+</html>

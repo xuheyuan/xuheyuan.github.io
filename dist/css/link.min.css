@@ -5460,7 +5460,7 @@ footer .o-logo {
 	height:auto
 }
 .c-hero__image {
-	background-image:url("/Content/images/loanpal-homepage-hero.jpg");
+	background-image:url("pic/brand2.jpg");
 	background-position:right top;
 	background-repeat:no-repeat;
 	background-size:cover;
@@ -5511,7 +5511,6 @@ footer .o-logo {
 }
 @media(min-width:992px) {
 	.c-hero {
-		height:600px
 	}
 }
 .navbar {
@@ -6175,7 +6174,7 @@ a.landing-form__btn {
 	float:left
 }
 .landing-page .c-hero {
-	background:url(/Content/images/loanpal-homepage-hero.jpg);
+	background:url(pic/brand2.jpg);
 	padding-top:80px;
 	padding-bottom:30px;
 	position:static
@@ -6517,7 +6516,7 @@ a {
 }
 .c-hero__image {
 	display:block;
-	background-image:url("/Content/images/loanpal-homepage-hero.jpg");
+	background-image:url("pic/brand2.jpg");
 	background-position:right top;
 	background-repeat:no-repeat;
 	background-size:cover;
@@ -6575,7 +6574,7 @@ a {
 }
 @media(min-width:992px) {
 	.c-hero {
-		height:768px
+		height:auto
 	}
 	.c-hero__video {
 		-webkit-transform:scale(2);
