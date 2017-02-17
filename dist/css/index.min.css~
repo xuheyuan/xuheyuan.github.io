@@ -1070,9 +1070,9 @@ footer {
 }
 @media only screen and (max-width:1068px) {
 	.pu-logo-icon,.chuanxin-logo-icon,.chonggou-logo-icon {
-		background-size:120px 120px;
-		width:120px;
-		height:120px
+		background-size:80px 80px;
+		width:80px;
+		height:80px
 	}
 }
 @media only screen and (min-width:768px) and (max-width:1068px) {
@@ -1087,9 +1087,9 @@ footer {
 		height:180px
 	}
 	.pu-logo-icon,.chuanxin-logo-icon,.chonggou-logo-icon {
-		background-size:120px 120px;
-		width:120px;
-		height:120px
+		background-size:80px 80px;
+		width:80px;
+		height:80px
 	}
 	.col-div {
 		min-height:304px
