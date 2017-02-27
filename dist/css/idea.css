@@ -1,0 +1,390 @@
+.con{
+	width: 1140px;
+}
+.con .aside{
+	width: 260px;
+	background:#e5e5e5;
+}
+.con{
+	position: fixed;
+	left:80px;
+	top:160px;
+	border-left:1px solid #b5b5b5;
+}
+.con a{
+	font-size: 14px;
+	color:#b5b5b5;
+}
+.con a b{
+	display: inline-block;
+	width: 10px;
+	height: 10px;
+	margin:0 15px 0 -6px;
+	border-radius:50%;
+	background: #0d65a3;
+}
+.con ul{
+	margin-top: -8px;
+}
+.con span{
+	font-size:10px;
+	margin-left: 10px;
+}
+.con .active a{
+	font-size: 16px;
+	font-weight: bold;
+	color:#0d65a3;
+}
+.con .active span{
+	font-size:14px;
+}
+.con .active b{
+	margin: 0 12px 0 -9px;
+	border: 3px #fcfcfc solid; 
+	width: 16px;
+	height:16px;
+}
+.con li{
+	height: 90px;
+}
+.con li.on{
+	height: 14px;
+}
+.con .main{
+	width: 740px;
+	padding: 70px 70px 0 70px;
+	background: #fff;
+	overflow: auto;
+}
+.main h2{
+	font-size: 30px;
+	font-weight: 700;
+	color:#272636;
+	padding: 4px 0;
+	margin: 22px 0;
+	border-bottom: 3px #b5b5b5 solid;
+}
+.main.gra h2{
+	border-bottom: 1px #dedede solid;
+}
+.main .text{
+	font-size:22px;
+	font-weight: normal;
+	margin: 0 20px 0 1px;
+}
+.ide ul{
+	font-size: 14px;
+}
+.ide li{
+	color:#0d65a3;
+	list-style: inside;
+	padding:5px 0 !important;
+}
+.ide .mt{
+	margin-top: 34px;
+}
+.ide p{
+	font-size: 14px;
+	line-height: 24px;
+	text-indent: 2em;
+}
+.ide img{
+	width: 100%;
+	margin: 30px 0;
+}
+.ide .gangwei{
+	text-align:center;
+}
+.gangwei p{
+	color:#0d65a3;
+	line-height: 20px;
+	margin:6px auto;
+}
+.main .en{
+	font-weight: 600;
+	font-size:16px;
+	margin-left: -4px;
+}
+.main .cont li{
+	height: auto;
+	padding: 10px 0;
+
+}
+.main .cont span{
+	margin-left: 0;
+}
+.main .cont .tit{
+	float: left;
+	font-size:16px;
+	color:#0d65a3;
+	display: inline-block;
+	text-align:right;
+	width: 8%;
+	padding-right: 2%;
+}
+.main .cont .txt{
+	font-size: 14px;
+	width: 88%;
+}
+.lib a span{
+	color:#0d65a3;
+}
+.lib a h6{
+	color:#b5b5b5;
+	margin: 5px 0 0px 0;
+}
+.lib a h4{
+	color:#0d65a3;
+	font-size: 18px;
+	font-weight: bold;
+}
+.lib a p{
+	font-size: 14px;
+	color:#000;
+	text-indent: 2em;
+	line-height: 26px;
+}
+.lib p span{
+	margin-left: 10px !important;
+}
+.lib li a{
+	font-weight: normal;
+	display: block;
+	background: #fefefe;
+	margin-bottom:26px;
+}
+//grade
+.f{}
+.data{
+	position:relative;
+}
+.data img{
+	width: 100%;
+}
+.data a{
+	font-size: 10px;
+	color:#fff;
+	width: 8px;
+	height: 8px;
+	background-color: #fff;
+	border-radius: 50%;
+	z-index: 5;
+	position:absolute;
+	 
+}
+.data a h4{
+	font-size: 14px;
+	text-align: center;
+	width: 20%;
+}
+.licheng{
+	font-size: 28px;
+	font-weight: bold;
+	color:#0d65a3;
+	text-align:center;
+	margin:30px 0 30px;
+}
+.data a p{
+	width: 75%;
+	padding:0;
+	margin:0; 
+}
+.data a.one{
+	top: 90%;
+	left: 28%;
+}
+.data .gimg{
+	width: 70%;
+	display: block;
+	margin: 0 auto;
+}
+.data a.two{
+	top: 79%;
+	left: 42.5%;
+}
+.data a.there{
+	top: 59.4%;
+	left: 57.5%;
+}
+.data a.four{
+	top:11%;
+	left: 65.6%;
+}
+.data a div{
+	display: none;
+	position:relative;
+}
+.data a .jiao{
+	width: 8px;
+	height: 14px;
+	background:url("../images/grade_06.png") center center no-repeat;
+	position:absolute;
+	left:-20px;
+	top:0;
+}
+.data a ul{
+	position: absolute;
+	left:-190px;
+	top:-50px;
+	width: 160px;
+	padding:10px;
+	background:rgba(130,130,130,.8) !important;
+	background:rgb(130,130,130);
+	overflow: auto;
+}
+.data a:hover div{
+	display: block;
+}
+.join p{
+	text-indent: 0;
+}
+.join .p{
+	font-weight: bold;
+}
+.join .footer p{
+	width: 100%;
+	font-size: 9px;
+	text-align: center;
+}
+.join h4.tw{
+	padding-top:0;
+	margin-top:20px; 
+}
+.join h4{
+	display: inline-block;
+	*display: inline;
+	*zoom:1;
+	padding: 30px 0 10px;
+	margin-bottom: 3px !important;
+	border-bottom: 1px #aaa dotted;
+}
+.join .img{
+	text-align: center;
+	margin:40px 0 20px 0;
+}
+.join img{
+	width: 60%;
+}
+.join h5{
+	font-size: 16px;
+	font-weight: normal;
+	text-align: center;
+	color:#ccc;
+	line-height: 24px;
+}
+.join .bt h4,.join .bt h3{
+	font-weight: bold;
+	text-align:center;
+	color:#0d65a3;
+} 
+.join .bt .topp{
+	font-size: 14px;
+	font-weight: bold;
+	margin:20px 0 10px;
+}
+/*//图南计划*/
+.join p{
+	text-align: center;
+	width: 60%;
+}
+.join h3{
+	margin-top:30px;
+}
+.tu .lei{
+	margin-top: 70px;
+}
+.tu .gangwei h3{
+	margin-top: 40px;
+}
+.bt ul li{
+	font-weight: normal;
+	color: #000 !important;
+	list-style-type: decimal;
+}
+.join img{
+	margin:0;
+}
+.join .one{
+	margin: 60px 0 40px;
+}
+.join h2{
+	margin-bottom: 40px;
+}
+.bt p{
+	color:#000;
+}
+.bt b,.bt a{
+	font-weight: normal;
+	color:#0d65a3;
+}
+.bt.mt{
+	margin-top:10px;
+	border:none;
+}
+.mt .ma img{
+	width: 20%;
+	margin: 30px 0 0;
+}
+.bt p.fangshi{
+	margin-top: 18px;
+}
+.led,.pat{
+	margin: 20px 0 20px !important;
+}
+
+/*//百川计划*/
+.baichuan h3{
+	font-size: 20px;
+	color: #0d65a3;
+	text-align:center;
+	margin-top:60px;
+}
+.baichuan img{
+	width:66%;
+}
+.baichuan h3.on{
+	margin-top:10px;
+}
+.baichuan .cont{
+	padding: 0 100px 0 80px;
+	text-align: center;
+}
+.baichuan p{
+	width:auto;
+	text-align: left;
+}
+.baichuan h4{
+	font-size: 14px;
+	font-weight: bold;
+	color:#333;
+	border: none;
+	padding-top:16px;
+}
+.baichuan .gangwei p{
+	text-align: center;
+}
+.baichuan .bt h3{
+	font-weight: normal;
+}
+
+
+
+@media screen and (min-width: 900px) {
+	.con{
+		width: 100%;
+	}
+	.con .aside{
+	width: 19%;
+	min-width:252px;
+	}
+	.con .main{
+	width: 69%;
+	padding: 70px 6% 0 4%;
+	}
+}
+
+@media screen and (max-width: 1300px) and (min-width:900px) {
+	.con .main{
+		width: 62%;
+	}
+}
