@@ -371,20 +371,20 @@
 
 @media screen and (min-width: 900px) {
 	.con{
-		width: 100%;
+		width: 15%;
 	}
 	.con .aside{
-	width: 19%;
+	width: 15%;
 	min-width:252px;
 	}
 	.con .main{
-	width: 69%;
+	width: 15%;
 	padding: 70px 6% 0 4%;
 	}
 }
 
 @media screen and (max-width: 1300px) and (min-width:900px) {
 	.con .main{
-		width: 62%;
+		width: 15%;
 	}
 }
