@@ -7,10 +7,6 @@ body {
 	line-height:1.45;
 	background-color:#f8f8f8
 }
-* {
-	margin:0;
-	padding:0
-}
 a,input,button {
 	-webkit-transition:all .5s ease;
 	-moz-transition:all .5s ease;
@@ -263,7 +259,7 @@ h3,h4 {
 	border:none
 }
 .navbar-default .navbar-toggle .icon-bar {
-	background-color:#3bbe7a;
+	background-color:#888;
 	-webkit-transition:all .4s ease-in-out;
 	-moz-transition:all .4s ease-in-out;
 	-ms-transition:all .4s ease-in-out;
@@ -276,7 +272,7 @@ h3,h4 {
 	margin-top:6px
 }
 .navbar-toggle .icon-bar {
-	height:1px
+	height:2px
 }
 .navbar-form .btn-primary.active,.navbar-form .btn-primary:active,.open>.dropdown-toggle.btn-primary,.btn-primary.focus,.btn-primary:focus {
 	color:#fff;
@@ -557,9 +553,6 @@ footer {
 	.navbar-brand {
 		padding-top:5px
 	}
-	.navbar-default {
-		padding:0
-	}
 	.ac-logo-icon {
 		background-repeat:no-repeat;
 		background-image:url("../img/logo.svg");
@@ -575,7 +568,7 @@ footer {
 		height:45px
 	}
 	.navbar {
-		min-height:45px
+		min-height:50px
 	}
 	.welinain {
 		font-size:18px
