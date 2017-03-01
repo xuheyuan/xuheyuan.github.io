@@ -15,6 +15,7 @@
     <link href="dist/css/a3.css" rel="stylesheet">
     <link href="dist/css/a4.css" rel="stylesheet">
     <link href="dist/css/idea.css" rel="stylesheet">
+    <link href="dist/css/common.css" rel="stylesheet">
     <link rel="shortcut icon" href="favicon.ico">
 </head>
 <body>
@@ -61,7 +62,6 @@
 <li><a href="team2.html">核心团队</a></li>
       	
 
-<li><a href="#contact">联系我们</a></li>
       	
                 </ul>
 
@@ -191,6 +191,73 @@
 
 
 
+       
+        
+        
+
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+
+<div id="leftsead">
+
+    <ul>
+        <li>
+            <a href="javascript:void(0)" class="shows" style="display: block;">
+                <img src="pic/xlogo.jpg" alt="咨询电话">
+            </a>
+            <a href="javascript:void(0)" class="divhide" style="display: none;">
+                咨询电话
+            </a>
+            <div class="welcometel" style="display: none;">
+                <div class="divright" style="display: none;"></div>
+                <div class="divleft" style="display: none;">
+                    <p>欢迎来电 10:00-20:00</p>
+                    <p>188 1146 2256</p>
+                </div>
+            </div>
+        </li>
+		<li>
+            <a href="javascript:void(0)" class="shows" style="display: block;">
+                <img src="pic/xlogo.jpg" alt="微信">
+            </a>
+            <a href="javascript:void(0)" class="divhide" style="display: none;">
+                微信公号
+            </a>
+            <div class="welcomewechat" style="display: none;">
+                <div class="divright" style="display: none;"></div>
+                <div class="divleft" style="display: none;">
+                    <p>聆课伴读</p>
+                    <div style="display: none;"><img src="pic/QRcode.jpg" style="width:100%;"><p></p>
+                </div>
+            </div>
+        </div></li>
+        <li>
+            <a href="javascript:void(0)" class="shows" style="display: block;">
+                <img src="pic/xlogo.jpg" alt="邮箱">
+            </a>
+            <a href="javascript:void(0)" class="divhide" style="display: none;">
+                邮箱
+            </a>
+            <div class="welcometel" style="display: none;">
+                <div class="divright" style="display: none;"></div>
+                <div class="divleft" style="display: none;">
+			<p>欢迎邮件咨询相关业务</p>
+                    <p style="font-size:14px;">pkuxuheyuan@163.com</p>
+                </div>
+            </div>
+        </li>
+    </ul>
+
+</div>
 
 
 
@@ -202,47 +269,47 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="/assets/js/vendor/jquery.min.js"><\/script>')</script>
-    <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
-
-    <script type="text/javascript">
-        $(function () {
-            var itemdiv = $(".i-item-con .col-lg-4");
-            itemdiv.hover(function () {
-                $(this).addClass("item-active").siblings().removeClass("item-active");
-            }).hover(function () {
-            }, function () {
-                $(this).removeClass("item-active");
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+            
+            <!-- Bootstrap core JavaScript
+            ================================================== -->
+            <!-- Placed at the end of the document so the pages load faster -->
+            <script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
+            <script>window.jQuery || document.write('<script src="/assets/js/vendor/jquery.min.js"><\/script>')</script>
+            <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+            <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+            <script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
+        
+            <script type="text/javascript">
+                $(function () {
+                    var itemdiv = $(".i-item-con .col-lg-4");
+                    itemdiv.hover(function () {
+			    $(this).addClass("item-active").siblings().removeClass("item-active");
+                    }).hover(function () {
+             }, function () {
+                 $(this).removeClass("item-active");
             });
             var itemdiv = $(".team-person");
             itemdiv.hover(function () {
@@ -252,6 +319,35 @@
                 $(this).removeClass("hover");
             });
         });
+</script>
+     <script type="text/javascript">
+
+    $(function(){
+        $(".close_box").click(function(){
+            $(".fixed_bottom").hide();
+        });
+        
+        
+        $("#leftsead > ul > li").mouseenter(function(){
+            
+                $(this).find("a.shows").hide();
+                $(this).find("a.divhide").show();
+                $(this).find("div").show();
+            
+            
+        });
+        $("#leftsead > ul > li").mouseleave(function(){
+            
+                $(this).find("a.shows").show();
+                $(this).find("a.divhide").hide();
+                $(this).find("div").hide();
+            
+        });
+        
+    })
+
+
+
 </script>
 
 </body>
