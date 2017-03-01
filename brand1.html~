@@ -236,7 +236,7 @@
             <div class="welcometel" style="display: none;">
                 <div class="divright" style="display: none;"></div>
                 <div class="divleft" style="display: none;">
-                    <p>pkuxuheyuan@163.com</p>
+                    <p><a href="mailto:pkuxuheyuan@163.com">pkuxuheyuan@163.com</a></p>
                 </div>
             </div>
         </li>
