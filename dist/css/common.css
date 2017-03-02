@@ -16,13 +16,13 @@
 #leftsead li a .hides{display:none;position:absolute;right:190px;top:2px;}
 #leftsead li .welcometel{position:absolute; width: 219px; height: 56px; right:56px; top:0; color: #000; border-radius:5px; display:none;}
 #leftsead li .welcometel .divright{display:block; float:right; width:13px;height:56px;background: url(../images/common/button.png) 0 center no-repeat;}
-#leftsead li .welcometel .divleft{display:block; width:206px; float:left;height:56px;background: #fff;}
+#leftsead li .welcometel .divleft{display:block; width:206px; float:left;height:56px;background: #fff;border:solid 2px #eeeeee;}
 #leftsead li .welcometel .divleft p:first-child{font-size:12px; text-align:center;margin-top:5px;}
 #leftsead li .welcometel .divleft p:last-child{font-size:22px; text-align:center;margin-top:1px;font-weight:bold;}
 
 #leftsead li .welcomewechat{position:absolute; width:158px;height:168px; right:56px; top:-56px; color: #000;border-radius:5px; display:none;}
 #leftsead li .welcomewechat .divright{display:block; float:right; width:13px;height:168px;background: url(../images/common/button.png) 0 center no-repeat;}
-#leftsead li .welcomewechat .divleft{display:block; width:145px; float:left;height:168px;background: #fff;}
+#leftsead li .welcomewechat .divleft{display:block; width:145px; float:left;height:176px;background: #fff;border:solid 2px #eeeeee;}
 #leftsead li .welcomewechat .divleft p:first-child{font-size:14px; text-align:center;margin:5px 0;}
 
 
