@@ -5167,13 +5167,13 @@ h5,.markdown-content h2 {
 }
 @media(min-width:768px) {
 	h1 {
-		font-size:6rem
+		font-size:72px
 	}
 	h2 {
 		font-size:3.8rem
 	}
 	h3 {
-		font-size:2rem
+		font-size:24px
 	}
 	h4,.markdown-content h1 {
 		font-size:2.2rem
