@@ -79,11 +79,11 @@ button.close {
 	opacity:1
 }
 a {
-	color:#3bbe7a
+	color:#23529c
 }
 a:hover,a:focus,a:active {
 	outline:none;
-	color:#3bbe7a
+	color:#23529c
 }
 .content-banner img {
 	height:320px;
@@ -99,7 +99,7 @@ h3,h4 {
 	margin:0
 }
 .global-btn {
-	background-color:#3bbe7a;
+	background-color:#23529c;
 	color:#fff;
 	font-size:14px;
 	text-align:center;
@@ -151,17 +151,17 @@ h3,h4 {
 	float:left
 }
 .line {
-	border-top:1px solid #3bbe7a;
+	border-top:1px solid #23529c;
 	width:30px;
 	margin:20px auto 40px
 }
 .line-tuhuan {
-	border-top:2px solid #3bbe7a;
+	border-top:2px solid #23529c;
 	width:80px;
 	margin:auto
 }
 .line-top {
-	border-top:1px solid #3bbe7a;
+	border-top:1px solid #23529c;
 	width:18px;
 	margin:auto
 }
@@ -172,9 +172,9 @@ h3,h4 {
 	padding-top:0
 }
 .memberzhuc {
-	color:#3bbe7a;
+	color:#23529c;
 	background-color:transparent;
-	border:1px solid #3bbe7a;
+	border:1px solid #23529c;
 	font-size:12px;
 	padding:6px 25px;
 	border-radius:2px;
@@ -184,8 +184,8 @@ h3,h4 {
 	display:inline-block
 }
 .navbar-form .memberzhuc:hover,.navbar-form .memberzhuc:focus,.navbar-form .memberzhuc:active,.navbar-form.memberzhuc:checked {
-	background-color:#3bbe7a;
-	border-color:#3bbe7a;
+	background-color:#23529c;
+	border-color:#23529c;
 	opacity:1;
 	color:#fff;
 	text-decoration:none
@@ -220,14 +220,14 @@ h3,h4 {
 	color:#333
 }
 .navbar-default .navbar-nav>.click>a {
-	color:#3bbe7a;
-	border-bottom:#3bbe7a
+	color:#23529c;
+	border-bottom:#23529c
 }
 .navbar-default .navbar-nav>li>a:focus,.navbar-default .nlavbar-nav>li>a:hover {
 	opacity:.8
 }
 .navbar-default .navbar-nav>.click>a:hover {
-	color:#3bbe7a;
+	color:#23529c;
 	opacity:1
 }
 .ac-logo-icon {
@@ -269,7 +269,7 @@ h3,h4 {
 	border:none
 }
 .navbar-default .navbar-toggle .icon-bar {
-	background-color:#3bbe7a;
+	background-color:#23529c;
 	-webkit-transition:all .4s ease-in-out;
 	-moz-transition:all .4s ease-in-out;
 	-ms-transition:all .4s ease-in-out;
@@ -286,8 +286,8 @@ h3,h4 {
 }
 .navbar-form .btn-primary.active,.navbar-form .btn-primary:active,.open>.dropdown-toggle.btn-primary,.btn-primary.focus,.btn-primary:focus {
 	color:#fff;
-	background-color:#3bbe7a !important;
-	border-color:#3bbe7a !important;
+	background-color:#23529c !important;
+	border-color:#23529c !important;
 	outline:none;
 	opacity:1
 }
@@ -470,7 +470,7 @@ footer {
 }
 @media(max-width:767px) {
 	.line {
-		border-top:2px solid #3bbe7a;
+		border-top:2px solid #23529c;
 		width:20px !important;
 		margin:15px auto !important
 	}
