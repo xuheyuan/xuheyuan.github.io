@@ -2606,7 +2606,7 @@ textarea.input-group-sm>.form-control,textarea.input-group-sm>.input-group-addon
 	border-color:#eee #eee #ddd
 }
 .nav-tabs>li.active>a,.nav-tabs>li.active>a:hover,.nav-tabs>li.active>a:focus {
-	color:#555;
+	color:#23529c;
 	background-color:#fff;
 	border:1px solid #ddd;
 	border-bottom-color:transparent;
@@ -2641,11 +2641,12 @@ textarea.input-group-sm>.form-control,textarea.input-group-sm>.input-group-addon
 	border-radius:4px
 }
 .nav-tabs.nav-justified>.active>a,.nav-tabs.nav-justified>.active>a:hover,.nav-tabs.nav-justified>.active>a:focus {
-	border:1px solid #ddd
+	margin-bottom:14px;
+	border:1px solid #fff
 }
 @media(min-width:768px) {
 	.nav-tabs.nav-justified>li>a {
-		border-bottom:1px solid #ddd;
+		border-bottom:1px solid #fff;
 		border-radius:4px 4px 0 0
 	}
 	.nav-tabs.nav-justified>.active>a,.nav-tabs.nav-justified>.active>a:hover,.nav-tabs.nav-justified>.active>a:focus {
