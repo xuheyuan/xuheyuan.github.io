@@ -2647,6 +2647,7 @@ textarea.input-group-sm>.form-control,textarea.input-group-sm>.input-group-addon
 @media(min-width:768px) {
 	.nav-tabs.nav-justified>li>a {
 		border-bottom:1px solid #fff;
+		font-size:25px;
 		border-radius:4px 4px 0 0
 	}
 	.nav-tabs.nav-justified>.active>a,.nav-tabs.nav-justified>.active>a:hover,.nav-tabs.nav-justified>.active>a:focus {
@@ -2690,9 +2691,22 @@ textarea.input-group-sm>.form-control,textarea.input-group-sm>.input-group-addon
 @media(min-width:768px) {
 	.nav-justified>li {
 		display:table-cell;
+		font-size:25px;
 		width:1%
 	}
 	.nav-justified>li>a {
+		font-size:25px;
+		margin-bottom:0
+	}
+}
+@media(min-width:300px) {
+	.nav-justified>li {
+		float:left;
+		display:table-cell;
+		width:1%
+	}
+	.nav-justified>li>a {
+		font-size:20px;
 		margin-bottom:0
 	}
 }
