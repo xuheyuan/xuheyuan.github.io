@@ -15,7 +15,7 @@ $(function () {
 			if (!next.length)
 				next = tabBar.find('li').first()
 			next.find('[data-toggle="tab"]').tab('show');
-		}, 50000);
+		}, 5000);
 	}
 
 	tabBar.on('mouseenter', '[data-toggle="tab"]', function () {
